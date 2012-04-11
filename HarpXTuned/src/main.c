@@ -1,7 +1,7 @@
 /**
  * \file
  *
- * \brief Empty user application template
+ * \brief Just a test what happens in Github when editing here...
  *
  */
 
